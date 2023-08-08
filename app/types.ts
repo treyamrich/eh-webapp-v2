@@ -1,0 +1,1 @@
+// Types should mirror the GraphQL schema
