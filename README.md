@@ -1,5 +1,5 @@
-# simple-blog
-Simple blog web application built using React.js and AWS.
+# Engraving Hawaii Web Application
+A web application built on AWS using Nextjs.
 
 ## Documentation
 Everything is documented in Google docs.
